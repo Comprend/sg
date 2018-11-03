@@ -1,3 +1,19 @@
-title: Comprend self governance guide
+language: en-GB
+title: "Comprend self governance guide"
+description: "All you need to know"
 
 remote_theme: mmistakes/so-simple-theme
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+    
+author:
+  name: "Comprend"
+  
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/comprendcom
+    icon: fab fa-twitter-square
